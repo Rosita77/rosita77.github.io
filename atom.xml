@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Rosita]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://rosita77.github.io/"/>
+  <updated>2015-05-31T12:46:30.000Z</updated>
+  <id>http://rosita77.github.io/</id>
+  
+  <author>
+    <name><![CDATA[Rosita Tsai]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[shishi]]></title>
+    <link href="http://rosita77.github.io/2015/05/31/shishi/"/>
+    <id>http://rosita77.github.io/2015/05/31/shishi/</id>
+    <published>2015-05-31T12:46:28.000Z</published>
+    <updated>2015-05-31T12:46:30.000Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[这个标题是可以改的，时间也是可以改的，但是得记得前面有一个空格]]></title>
+    <link href="http://rosita77.github.io/2015/05/31/my-first-post/"/>
+    <id>http://rosita77.github.io/2015/05/31/my-first-post/</id>
+    <published>2015-05-31T12:27:37.000Z</published>
+    <updated>2015-05-31T12:33:28.000Z</updated>
+    <content type="html"><![CDATA[<p>今天学习了一项对人生没有多大影响的新技能，哈哈。那三个横杠是不能接东西的。。。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>今天学习了一项对人生没有多大影响的新技能，哈哈。那三个横杠是不能接东西的。。。</p>
+]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[100.com的一个漏洞]]></title>
+    <link href="http://rosita77.github.io/2015/05/31/loopholes/"/>
+    <id>http://rosita77.github.io/2015/05/31/loopholes/</id>
+    <published>2015-05-31T03:36:28.000Z</published>
+    <updated>2015-05-31T03:53:14.000Z</updated>
+    <content type="html"><![CDATA[<p>昨晚无聊，就打开欢聚时代的<a href="http://huanju.cn/" target="_blank" rel="external">官网</a>，然后一路溜到<a href="http://www.100.com/" target="_blank" rel="external">教育100</a>这个旗下网站，顺带注册了一个账户，-_-# 身为一个无聊的业余码农，看到那么多<code>input</code>，就随便输了点东西进去。。。。然后就发现了个漏洞。。。。</p>
+<p>上图：</p>
+<p><img src="http://thinkerchan.com/images/100.jpg" alt="100.com"></p>
+<p>然后就报告给了YY前端老大<a href="https://github.com/maxlee" target="_blank" rel="external">@maxlee</a>….</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>昨晚无聊，就打开欢聚时代的<a href="http://huanju.cn/" target="_blank" rel="external">官网</a>，然后一路溜到<a href="http://www.100.com/" target="_blank" rel="e]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
